@@ -14,9 +14,9 @@ Score:
 | F    | libraries of the world |  5,296,609 |
 | -    | TOTAL                  | 26,879,984 |
 
-388 place.
+388 place of 10724.
 
-Team:
+Team **GGGG**:
 
 - [dzhiblavi](https://github.com/dzhiblavi)
 
