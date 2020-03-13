@@ -18,11 +18,11 @@ Score:
 
 Team:
 
-https://github.com/dzhiblavi
+[dzhiblavi](https://github.com/dzhiblavi)
 
-https://github.com/gleb-kov
+[gleb-kov](https://github.com/gleb-kov)
 
-https://github.com/Darui99
+[Darui99](https://github.com/Darui99)
 
-https://github.com/Villen3tenmerth
+[Villen3tenmerth](https://github.com/Villen3tenmerth)
 
